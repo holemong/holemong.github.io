@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://holemong.github.io/sitemap.html.gz
+Sitemap: https://holemong.github.io/app/sitemap.html.gz
+Sitemap: https://holemong.github.io/assets/sitemap.html.gz
+Sitemap: https://holemong.github.io/css/sitemap.html.gz
+Sitemap: https://holemong.github.io/includes/sitemap.html.gz
+Sitemap: https://holemong.github.io/item/sitemap.html.gz
+Sitemap: https://holemong.github.io/src/sitemap.html.gz
